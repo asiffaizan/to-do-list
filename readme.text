@@ -1,0 +1,15 @@
+https://stackoverflow.com/questions/3937513/javascript-validation-for-empty-input-field
+
+answer=>
+if(inputField.value.length == 0){
+        alert("empty");
+    }
+
+//git config
+
+  git init
+  git add README.md
+  git commit -m "first commit"
+  git branch -M main
+  git remote add origin https://github.com/asiffaizan/to-do-list.git
+  git push -u origin main
